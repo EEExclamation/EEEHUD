@@ -2943,7 +2943,232 @@ Scheme
 				"dropshadow"	"1"
 			}
 		}
+		
+		"LemonMilkRegular12"
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}	
+		
+		"LemonMilkRegular16"
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		"LemonMilkRegular18"
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		
+		"LemonMilkRegular20"
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}		
+		
+		"LemonMilkRegular22"
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"22"
+				"antialias" "1"
+			}
+		}		
+		
+		"LemonMilkRegular24"
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		"LemonMilkRegular30"
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"30"
+				"antialias" "1"
+			}
+		}
+		
+		"LemonMilkRegular33"
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"33"
+				"antialias" "1"
+			}
+		}
+		
+		"LemonMilkRegular36"
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		"LemonMilkRegular42"
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+
+		"LemonMilkRegular46"
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"46"
+				"antialias" "1"
+			}
+		}			
+		
+		"LemonMilkBold18"
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk bold"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}	
+		
+		"LemonMilkBold24"
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk bold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		"LemonMilkBold30"
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk bold"
+				"tall"		"30"
+				"antialias" "1"
+			}
+		}
+		
+		"LemonMilkBold36"
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk bold"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}				
+		
+		"LemonMilkLight18"
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk light"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}	
+		
+		"LemonMilkLight24"
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk light"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		"LemonMilkLight28"
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk light"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+		
+		"LemonMilkLight30"
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk light"
+				"tall"		"30"
+				"antialias" "1"
+			}
+		}			
+		
+		"LemonMilkLight36"
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk light"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}		
+		
+		"LemonMilkItalic18"
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk italic"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}	
+		
+		"LemonMilkItalic24"
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk italic"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}	
+	
 	}
+	
+	//EEE Hud uses the Lemon/Milk fonts.
+	
+	
 
 	//
 	//////////////////// BORDERS //////////////////////////////
@@ -5473,5 +5698,44 @@ Scheme
 			}
 		}			
 		"7" "resource/ocra.ttf"
+		"8"
+		{
+			"font" "resource/fonts/LemonMilk.otf"
+			"name" "Lemon/Milk"
+		
+		}
+		"9"
+		{
+			"font" "resource/fonts/LemonMilkbold.otf"
+			"name" "Lemon/Milk bold"
+		
+		}
+		"10"
+		{
+			"font" "resource/fonts/LemonMilkbolditalic.otf"
+			"name" "Lemon/Milk bold italic"
+		
+		}		
+		"11"
+		{
+			"font" "resource/fonts/LemonMilkitalic.otf"
+			"name" "Lemon/Milk italic"
+		
+		}		
+		"12"
+		{
+			"font" "resource/fonts/LemonMilklight.otf"
+			"name" "Lemon/Milk light"
+		
+		}		
+		"13"
+		{
+			"font" "resource/fonts/LemonMilklightitalic.otf"
+			"name" "Lemon/Milk light italic"
+		
+		}	
+	
 	}
+	
+	
 }
