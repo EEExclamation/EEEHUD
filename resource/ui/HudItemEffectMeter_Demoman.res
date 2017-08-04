@@ -5,10 +5,10 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-44"	
-		"ypos"			"r150"
+		"xpos"			"c-45"	
+		"ypos"			"r145"
 		"wide"			"100"
-		"tall"			"35"
+		"tall"			"100"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}
@@ -77,7 +77,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"ItemEffectMeterCount"
 		"xpos"			"0"	
-		"ypos"			"0"
+		"ypos"			"1"
 		"zpos"					"2"
 		"wide"					"90"
 		"tall"					"26"	
@@ -90,7 +90,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"fgcolor"		"234 234 234 255"
-		"font"				"Museo16"
+		"font"				"DemiBold30"
 	}
 
 	"ItemEffectMeterCountShadow"
@@ -98,7 +98,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"ItemEffectMeterCountShadow"
 		"xpos"			"0"	
-		"ypos"			"1"
+		"ypos"			"3"
 		"zpos"					"1"
 		"wide"					"90"
 		"tall"					"26"	
@@ -111,6 +111,6 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"fgcolor"		"32 32 32 255"
-		"font"				"Museo16"
+		"font"				"DemiBold30"
 	}
 }

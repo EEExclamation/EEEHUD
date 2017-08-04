@@ -49,7 +49,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"Museo12"
-		"fgcolor_override"      "0 221 255 255"
+		"fgcolor_override"      "225 225 255 255"
 	}
 
 	"ItemEffectMeter"
@@ -92,7 +92,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"Museo20"
-		"fgcolor_override"      "0 221 255 255"
+		"fgcolor_override"      "225 225 255 255"
 	}
 	
 	"StreakBG"

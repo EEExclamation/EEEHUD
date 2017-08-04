@@ -2,7 +2,7 @@
 {
 	"CHudAccountPanel"
 	{
-		"ypos"			"280"
+		"ypos"			"290"
 		"delta_item_x"			"400"
 		"delta_item_start_y"	"375"
 		"delta_item_end_y"		"365"

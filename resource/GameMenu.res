@@ -2,8 +2,8 @@
 {
 	"Credits"
 	{
-		"label" "EEEHUD BETA: a basthud edit"
-		"command" "engine showconsole; echo Original hud created by b4stian, check him out: basthud.huds.tf or teamfortress.tv/thread/18508/basthud"
+		"label" "EEEHUD BETA: fuck batman"
+		"command" "engine showconsole; echo Original hud created by b4stian, updated by Hypnotize, then further tweaked by me, EEE!"
 	}
 	"FavoriteServer"
 	{
