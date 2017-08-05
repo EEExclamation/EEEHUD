@@ -6,8 +6,8 @@
 		"fieldName"				"HudTournament"
 				
 		"xpos"					"0"
-		"ypos"					"-25"
-		"wide"					"f0"
+		"ypos"					"0"
+		"wide"					"f50"
 		"tall"					"480"
 
 		"team1_player_base_offset_x"		"-75"

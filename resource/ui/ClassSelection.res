@@ -2121,19 +2121,19 @@
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"TFPlayerModel"
 		
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"0"		
-		"wide"			"0"
-		"tall"			"0"
+		"xpos"			"c-400"
+		"ypos"			"c-100"
+		"zpos"			"3"		
+		"wide"			"2200"
+		"tall"			"2000"
 		
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		
 		"render_texture"	"0"
-		"fov"			"0"
+		"fov"			"60"
 		"allow_rot"		"0"
 
 		"paintbackground" "0"		

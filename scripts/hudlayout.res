@@ -392,10 +392,11 @@
         "visible" "1"
         "enabled" "1"
         "xpos"  "0"
-        "ypos"  "0"
+        "ypos"  "-20"
         "wide"  "f0"
         "tall"  "480"
-    }   
+    }
+
     
     HudKothTimeStatus
     {
@@ -1269,7 +1270,7 @@
         "xpos"          "42"    [$X360]
         "ypos"          "275"
         "wide"          "320"
-        "tall"          "120"
+        "tall"          "200"
         "PaintBackgroundType"   "2"
     }
     
@@ -1315,7 +1316,7 @@
         "visible"       "1"
         "enabled"       "1"
         "xpos"          "c-233"
-        "ypos"          "c-46"
+        "ypos"          "c-60"
         "wide"          "470"
         "tall"          "200"   
         "PaintBackgroundType"   "0"
@@ -1694,7 +1695,7 @@
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"c-235"
-		"ypos"			"c-46"
+		"ypos"			"c26"
 		"ypos_hidef"	"c-42"
 		"ypos_lodef"	"c-42"
 		"wide"			"470"

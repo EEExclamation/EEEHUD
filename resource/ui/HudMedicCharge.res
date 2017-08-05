@@ -48,8 +48,8 @@
 		"tall"			"28"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"tabPosition"	"0"
 		"labelText"		"#TF_UberchargeMinHUD"
 		"textAlignment"	"center"
@@ -272,6 +272,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}
+
 
 	"ResistIconAnchor"
 	{
