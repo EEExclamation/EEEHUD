@@ -6,9 +6,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-48"
-		"ypos"			"r111"
+		"ypos"			"r150"
 		"wide"			"96"
-		"tall"			"5"
+		"tall"			"10"
 	}
 	
 	"ItemEffectMeterBG"
@@ -34,11 +34,11 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"			        "0"
-		"ypos"			        "1"
+		"xpos"			        "-10"
+		"ypos"			        "10"
 		"zpos"			        "3"
 		"wide"			        "118"
-		"tall"			        "8"
+		"tall"			        "10"
 		"visible"				"0"
 		"enabled"				"1"
 		"labelText"				"#TF_ENERGYDRINK"
