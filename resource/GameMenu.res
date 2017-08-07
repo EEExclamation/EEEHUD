@@ -2,8 +2,8 @@
 {
 	"Credits"
 	{
-		"label" "EEEHUD BETA: fuck batman"
-		"command" "engine showconsole; echo Original hud created by b4stian, updated by Hypnotize, then further tweaked by me, EEE!"
+		"label" "EEEHUD BETA: me likey"
+		"command" "engine showconsole; echo Original hud created by b4stian, then further updated by me, EEE!"
 	}
 	"FavoriteServer"
 	{
@@ -61,7 +61,7 @@
 	}
 	"ServerButton16vs16"
 	{
-		"label" "Normal Scoreboard"
+		"label" "Scoreboard"
 		"command" "engine cl_hud_minmode 0"
 		"subimage" "glyph_practice"
 		"OnlyAtMenu" "0"
