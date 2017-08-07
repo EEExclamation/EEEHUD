@@ -9,6 +9,6 @@
 		"PositiveColor"			"0 221 255 255"
 		"NegativeColor"			"244 85 0 255"
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"DemiBold30"
+		"delta_item_font"		"DemiBold20"
 	}
 }

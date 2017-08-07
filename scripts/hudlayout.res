@@ -380,10 +380,10 @@
         "fieldName" "HudWeaponAmmo"
         "visible" "1"
         "enabled" "1"
-        "xpos"  "c-0"
-        "ypos"  "r80"
-        "wide"  "500"
-        "tall"  "500"
+        "xpos"  "c-45"
+        "ypos"  "r180"
+        "wide"  "200"
+        "tall"  "300"
     }
     
     HudObjectiveStatus
@@ -546,8 +546,8 @@
     CHealthAccountPanel
     {
         "fieldName"             "CHealthAccountPanel"
-        "xpos"                  "c-145"
-        "ypos"                  "r100"
+        "xpos"                  "c-116"
+        "ypos"                  "r220"
         "wide"                  "116"
         "tall"                  "180"
         "visible"               "1"
@@ -647,11 +647,11 @@
         "fieldName" "HudMannVsMachineStatus"
         "visible"   "1"
         "enabled"   "1"
-        "xpos"      "-512"
+        "xpos"      "0"
         "ypos"      "0"
         "zpos"      "1"
         "wide"      "f0"
-        "tall"      "f0"
+        "tall"      "480"
         
         "PaintBackgroundType"   "2"
     }
@@ -1793,13 +1793,5 @@
 		"zpos"					"3"
 		"wide"					"f0"
 		"tall"					"f0"
-	}
-	
-	MvMInWorldCurrency
-	{
-		"fieldName"	"MvMInWorldCurrency"
-		"visible"	"1"
-		"enabled"	"1"
-		"xpos"		"50"
 	}
 }
