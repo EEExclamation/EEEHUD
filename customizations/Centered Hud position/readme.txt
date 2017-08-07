@@ -1,1 +1,1 @@
-Revert back to the normal style with this by dragging the folders here and placing them in the main folder, replacing them
+Revert back to the centered style with this by dragging the folders here and placing them in the main folder, replacing them

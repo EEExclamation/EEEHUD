@@ -72,7 +72,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor"		"234 234 234 255"
-		"font"			"Medium20"
+		"font"			"Medium30"
 	}
 
 	"AccountValueShadow"
@@ -94,6 +94,6 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor"		"TransparentBlack"
-		"font"			"Medium20"
+		"font"			"Medium30"
 	}
 }
