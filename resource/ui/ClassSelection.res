@@ -2122,9 +2122,9 @@
 		"fieldName"		"TFPlayerModel"
 		
 		"xpos"			"c-400"
-		"ypos"			"c-100"
+		"ypos"			"c-125"
 		"zpos"			"3"		
-		"wide"			"2200"
+		"wide"			"2000"
 		"tall"			"2000"
 		
 		"autoResize"	"0"
@@ -2133,7 +2133,7 @@
 		"enabled"		"1"
 		
 		"render_texture"	"0"
-		"fov"			"60"
+		"fov"			"75"
 		"allow_rot"		"0"
 
 		"paintbackground" "0"		

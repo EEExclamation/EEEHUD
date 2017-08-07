@@ -1,0 +1,1 @@
+If you don't like the "centered" style of the hud just copy these folders into the main folder and replace, enjoy!
