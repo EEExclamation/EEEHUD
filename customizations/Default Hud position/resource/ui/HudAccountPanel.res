@@ -3,14 +3,13 @@
 	"CHudAccountPanel"
 	{
 		"ypos"			"290"
-		"delta_item_x"			"400"
-		"delta_item_start_y"	"375"
-		"delta_item_end_y"		"365"
+		"delta_item_x"	"76"
+		"delta_item_start_y"	"43"
+		"delta_item_end_y"		"35"
 		"PositiveColor"			"0 221 255 255"
 		"NegativeColor"			"244 85 0 255"
-		"zpos"			"-1"
-		"delta_lifetime"		"0"
-		"delta_item_font"		"Museo16"
+		"delta_lifetime"		"1.5"
+		"delta_item_font"		"DemiBold20"
 		"textAlignment"	"center"
 	}
 	
