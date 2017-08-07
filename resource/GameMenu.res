@@ -11,44 +11,44 @@
 	}
 	"CasualButton"
 	{
-		"label" "Play vs. Bots" 
+		"label" "Casual" 
 		"command" "play_casual"
 		"subimage" "glyph_multiplayer"
 	}
 	"MvMButton"
 	{
-		"label" "BIG DAMN ROBOTS" 
+		"label" "Mann vs. Machine" 
 		"command" "play_mvm"
 		"subimage" "glyph_multiplayer"
 	}
 	"CompetitiveButton"
 	{
-		"label"	"ESEA Invite" 
+		"label"	"Competitive" 
 		"command" "play_competitive"
 		"subimage" "glyph_multiplayer"
 	}
 	"ServerBrowserButton"
 	{
-		"label"			"Look for dead servers"
+		"label"			"Server Browser"
 		"command"		"OpenServerBrowser"
 		"subimage" 		""
 	}
 	"AdvancedSettingsButton"
 	{
-		"label"			"Big Brain Options" 
+		"label"			"Adv. Options" 
 		"Command"		"opentf2options"
 		"subimage"		""
 		"OnlyAtMenu"	"0"
 	}
 	"ReplayBrowserButton"
 	{
-		"label" "Use demos idot"
+		"label" "Replays"
 		"command" "engine replay_reloadbrowser"
 		"subimage" "glyph_practice"
 	}
 	"SteamWorkshopButton"
 	{
-		"label" "Me likey"
+		"label" "Workshop"
 		"command" "engine OpenSteamWorkshopDialog"
 		"subimage" "glyph_practice"
 	}
@@ -61,14 +61,14 @@
 	}
 	"ServerButton16vs16"
 	{
-		"label" "HL/Pub Scoreboard"
+		"label" "Normal Scoreboard"
 		"command" "engine cl_hud_minmode 0"
 		"subimage" "glyph_practice"
 		"OnlyAtMenu" "0"
 	}
 	"QuitButton"
 	{
-		"label" "game sux"
+		"label" "Quit Game"
 		"command" "engine replay_confirmquit"
 		"subimage" "glyph_practice"
 		"OnlyAtMenu" "1"
@@ -80,17 +80,17 @@
 		"label" "#GameUI_GameMenu_CreateServer"
 		"command" "OpenCreateMultiplayerGameDialog"
 		"OnlyAtMenu" "1"
-		"tooltip" "create dead server"
+		"tooltip" "Create Server"
 	}
 	"GeneralStoreButton"
 	{
-		"label" "Waste money"
+		"label" "Store"
 		"command" "engine open_store"
 		"subimage" "glyph_practice"
 	}
 	"CharacterSetupButton"
 	{
-		"label" "$2 Inventory"
+		"label" "Inventory"
 		"command" "engine open_charinfo"
 		"subimage" "glyph_practice"
 	}
@@ -99,7 +99,7 @@
 	// and also are positioned by the .res file
 	"DisconnectButton"
 	{
-		"label" "I dont lose"
+		"label" "Disconnect"
 		"command" "engine disconnect"
 		"subimage" "glyph_practice"
 		"OnlyInGame"	"1"
@@ -110,7 +110,7 @@
 		"command"		"callvote"
 		"OnlyAtMenu" "0"
 		"subimage" "icon_checkbox"
-		"tooltip" "kick/scramble"
+		"tooltip" "Call Vote"
 	}
 	"MutePlayersButton"
 	{
@@ -118,7 +118,7 @@
 		"command"		"OpenPlayerListDialog"
 		"OnlyInGame"	"1"
 		"subimage" "glyph_muted"
-		"tooltip" "idiot hater"
+		"tooltip" "Mute"
 	}
 	"RequestCoachButton"
 	{
@@ -126,6 +126,6 @@
 		"command"		"engine cl_coach_find_coach"
 		"OnlyAtMenu" "0"
 		"subimage" "icon_whistle"
-		"tooltip" "idiot smarterer"
+		"tooltip" "Coaching"
 	}
 }

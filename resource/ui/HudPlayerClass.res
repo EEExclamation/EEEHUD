@@ -5,8 +5,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerClass"
-		"xpos"			"-120"
-		"ypos"			"-50"
+		"xpos"			"-60"
+		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"480"
@@ -100,11 +100,11 @@
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"classmodelpanel"
 		
-		"xpos"			"270"	[$WIN32]
-		"ypos"			"r135"	[$WIN32]
+		"xpos"			"250"	[$WIN32]
+		"ypos"			"r200"	[$WIN32]
 		"zpos"			"2"		
-		"wide"			"75"
-		"tall"			"125"
+		"wide"			"100"
+		"tall"			"200"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
