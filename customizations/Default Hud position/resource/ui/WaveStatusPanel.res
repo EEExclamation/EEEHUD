@@ -4,52 +4,62 @@
 	{
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"Background"
-		"xpos"			"50"
-		"ypos"			"27"
+		"xpos"			"0"
+		"ypos"			"2"
 		"zpos"			"-1"
 		"wide"			"200"
 		"tall"			"35"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
-		"image"			"../HUD/tournament_panel_mvm"
+		"enabled"		"0"
+		"image"			"../hud/color_panel_brown"
 
-		"src_corner_height"	"22"				// pixels inside the image
-		"src_corner_width"	"22"
+		"src_corner_height"	"20"				// pixels inside the image
+		"src_corner_width"	"20"
 	
-		"draw_corner_width"	"5"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"5"
+		"draw_corner_width"	"0"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"0"	
 	}
 	
 	"WaveCountLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"WaveCountLabel"
-		"font"			"ChatFont"
-		"fgcolor"		"234 234 234 255"
-		"xpos"			"c-189"
-		"ypos"			"2"
-		"zpos"			"3"
-		"wide"			"137"
-		"tall"			"16"
+		"font"			"MavenProBlack16"
+		"fgcolor"		"TanLight"
+		"xpos"			"198"
+		"ypos"			"0"
+		"zpos"			"4"
+		"wide"			"200"
+		"tall"			"15"
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"		"center"
-		"labelText"		"%wave_count%"
-		
-		if_verbose
-		{
-			"visible"		"0"
-		}
+		"textAlignment"				"center"
+		"labelText"					"%wave_count%"
 	}
-	
+	"WaveCountLabelShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"WaveCountLabelShadow"
+		"font"			"MavenProBlack16"
+		"fgcolor"		"Black"
+		"xpos"			"199"
+		"ypos"			"1"
+		"zpos"			"4"
+		"wide"			"200"
+		"tall"			"15"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"				"center"
+		"labelText"					"%wave_count%"
+	}
 	"SeparatorBar"
 	{
 		"ControlName"	"Panel"
 		"fieldName"		"SeparatorBar"
 		"xpos"			"0"
-		"ypos"			"20"
+		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"1"
 		"tall"			"30"
@@ -57,7 +67,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"
 		"PaintBackgroundType" "2"
-		"bgcolor_override"	"234 234 234 255"
+		"bgcolor_override"	"TanLight"
 		
 		if_verbose
 		{
@@ -69,10 +79,10 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SupportLabel"
-		"font"			"ChatMiniFont"
-		"fgcolor"		"234 234 234 255"
+		"font"			"default"		//	"HudFontSmallestBold"
+		"fgcolor"		"TanLight"
 		"xpos"			"55"
-		"ypos"			"20"
+		"ypos"			"6"
 		"zpos"			"3"
 		"wide"			"60"
 		"tall"			"15"
@@ -91,11 +101,11 @@
 	{
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"ProgressBar"
-		"xpos"			"c-190"
-		"ypos"			"15"
+		"xpos"			"210"
+		"ypos"			"18"
 		"zpos"			"3"
-		"wide"			"137"
-		"tall"			"8"
+		"wide"			"180"
+		"tall"			"10"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../HUD/tournament_panel_blu"
@@ -105,25 +115,20 @@
 	
 		"draw_corner_width"	"0"				// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 	"0"	
-		
-		if_verbose
-		{
-			"visible"		"0"
-		}
 	}
 	
 	"ProgressBarBG"
 	{
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"ProgressBarBG"
-		"xpos"			"110"
-		"ypos"			"19"
+		"xpos"			"210"
+		"ypos"			"18"
 		"zpos"			"3"
 		"wide"			"180"
-		"tall"			"11"
-		"visible"		"0"
+		"tall"			"10"
+		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../HUD/tournament_panel_tan"
+		"image"			"../HUD/color_panel_brown"
 		
 		"src_corner_height"	"22"				// pixels inside the image
 		"src_corner_width"	"22"

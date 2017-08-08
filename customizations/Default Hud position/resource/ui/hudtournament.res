@@ -905,9 +905,9 @@
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"CountdownBG"
 		"xpos"			"238"
-		"ypos"			"r30"
+		"ypos"			"r55"
 		"zpos"			"-1"
-		"wide"			"25"
+		"wide"			"50"
 		"tall"			"25"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -915,11 +915,11 @@
 		"enabled"		"1"
 		"image"			"../HUD/color_panel_red"
 
-		"src_corner_height"	"23"				// pixels inside the image
-		"src_corner_width"	"23"
+		"src_corner_height"	"100"				// pixels inside the image
+		"src_corner_width"	"100"
 		
-		"draw_corner_width"	"4"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"4"	
+		"draw_corner_width"	"0"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"0"	
 		
 		if_competitive
 		{
@@ -936,10 +936,10 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"CountdownLabel"
-		"font"			"Museo15"
+		"font"			"Museo28"
 		"xpos"			"238"
 		"ypos"			"r30"
-		"wide"			"26"
+		"wide"			"50"
 		"tall"			"25"
 		"zpos"			"1"
 		"autoResize"		"0"
