@@ -140,9 +140,9 @@
 			"fieldName"		"AlertTray"
 			"xpos"			"113"
 			"ypos"			"0"
-			"wide"			"34"
+			"wide"			"30"
 			"tall"			"31"
-			"visible"		"0"
+			"visible"		"1"
 			"enabled"		"1"	
 			"icon"			"obj_status_alert_background"
 		}

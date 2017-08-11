@@ -173,9 +173,9 @@
 			"ypos"			"0"
 			"ypos"			"0"
 			"zpos"			"-2"
-			"wide"			"44"
+			"wide"			"40"
 			"tall"			"60"
-			"visible"		"0"
+			"visible"		"1"
 			"enabled"		"1"	
 			"icon"			"obj_status_alert_background_tall"
 		}
