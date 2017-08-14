@@ -57,7 +57,7 @@
 
 				"FgColor" "234 234 234 255"
 	                "defaultFgColor_override" "234 234 234 255"
-				"armedFgColor_override" "0 221 255 255"
+				"armedFgColor_override" "207 115 54 255"
 				"depressedFgColor_override" "234 234 234 255"
 			
 				"image_drawcolor"	"0 0 0 0"
@@ -181,7 +181,7 @@
 				"paintbackground"	"0"
 			
 				"defaultFgColor_override" "0 0 0 255"
-				"armedFgColor_override" "0 221 255 255"
+				"armedFgColor_override" "207 115 54 255"
 				"depressedFgColor_override" "0 0 0 255"
 				
 				"image_drawcolor"	"0 0 0 0"
@@ -528,7 +528,7 @@
 			"paintbackground"	"0"
 			
 			"image_drawcolor"	"32 32 32 255"
-			"image_armedcolor"	"0 175 175 255"
+			"image_armedcolor"	"207 115 54 255"
 			
 			"SubImage"
 			{
@@ -1572,7 +1572,7 @@
 			
 			"FgColor" "234 234 234 255"			
 			"defaultFgColor_override" "234 234 234 255"
-			"armedFgColor_override" "0 221 255 255"
+			"armedFgColor_override" "207 115 54 255"
 			"depressedFgColor_override" "234 234 234 255"
 			
 			"image_drawcolor"	"0 0 0 0"
@@ -1640,7 +1640,7 @@
 			
 			"FgColor" "234 234 234 255"			
 			"defaultFgColor_override" "234 234 234 255"
-			"armedFgColor_override" "0 221 255 255"
+			"armedFgColor_override" "207 115 54 255"
 			"depressedFgColor_override" "234 234 234 255"
 			
 			"image_drawcolor"	"0 0 0 0"
@@ -1708,7 +1708,7 @@
 			
 			"FgColor" "234 234 234 255"			
 			"defaultFgColor_override" "234 234 234 255"
-			"armedFgColor_override" "0 221 255 255"
+			"armedFgColor_override" "207 115 54 255"
 			"depressedFgColor_override" "234 234 234 255"
 			
 			"image_drawcolor"	"0 0 0 0"
@@ -1776,7 +1776,7 @@
 			
 			"FgColor" "234 234 234 255"			
 			"defaultFgColor_override" "234 234 234 255"
-			"armedFgColor_override" "0 221 255 255"
+			"armedFgColor_override" "207 115 54 255"
 			"depressedFgColor_override" "234 234 234 255"
 			
 			"image_drawcolor"	"0 0 0 0"
@@ -1834,7 +1834,7 @@
 
 		"FgColor" "234 234 234 255"			
 		"defaultFgColor_override" "234 234 234 255"
-		"armedFgColor_override" "0 221 255 255"
+		"armedFgColor_override" "207 115 54 255"
 		"depressedFgColor_override" "234 234 234 255"
 			
 		"image_drawcolor"	"0 0 0 0"
@@ -1895,7 +1895,7 @@
 			
 			"FgColor" "234 234 234 255"			
 			"defaultFgColor_override" "234 234 234 255"
-			"armedFgColor_override" "0 221 255 255"
+			"armedFgColor_override" "207 115 54 255"
 			"depressedFgColor_override" "234 234 234 255"
 			
 			"image_drawcolor"	"0 0 0 0"
@@ -1962,7 +1962,7 @@
 			
 			"FgColor" "234 234 234 255"			
 			"defaultFgColor_override" "234 234 234 255"
-			"armedFgColor_override" "0 221 255 255"
+			"armedFgColor_override" "207 115 54 255"
 			"depressedFgColor_override" "234 234 234 255"
 			
 			"image_drawcolor"	"0 0 0 0"
@@ -2029,7 +2029,7 @@
 			
 			"FgColor" "234 234 234 255"			
 			"defaultFgColor_override" "234 234 234 255"
-			"armedFgColor_override" "0 221 255 255"
+			"armedFgColor_override" "207 115 54 255"
 			"depressedFgColor_override" "234 234 234 255"
 			
 			"image_drawcolor"	"0 0 0 0"
@@ -2097,7 +2097,7 @@
 			
 			"FgColor" "234 234 234 255"			
 			"defaultFgColor_override" "234 234 234 255"
-			"armedFgColor_override" "0 221 255 255"
+			"armedFgColor_override" "207 115 54 255"
 			"depressedFgColor_override" "234 234 234 255"
 			
 			"image_drawcolor"	"0 0 0 0"
@@ -2165,7 +2165,7 @@
 			
 			"FgColor" "234 234 234 255"			
 			"defaultFgColor_override" "234 234 234 255"
-			"armedFgColor_override" "0 221 255 255"
+			"armedFgColor_override" "207 115 54 255"
 			"depressedFgColor_override" "234 234 234 255"
 			
 			"image_drawcolor"	"0 0 0 0"
@@ -2226,7 +2226,7 @@
 			
 			"FgColor" "234 234 234 255"			
 			"defaultFgColor_override" "234 234 234 255"
-			"armedFgColor_override" "0 221 255 255"
+			"armedFgColor_override" "207 115 54 255"
 			"depressedFgColor_override" "234 234 234 255"
 			
 			"image_drawcolor"	"0 0 0 0"
@@ -2287,7 +2287,7 @@
 			
 			"FgColor" "234 234 234 255"			
 			"defaultFgColor_override" "234 234 234 255"
-			"armedFgColor_override" "0 221 255 255"
+			"armedFgColor_override" "207 115 54 255"
 			"depressedFgColor_override" "234 234 234 255"
 			
 			"image_drawcolor"	"0 0 0 0"
@@ -2349,7 +2349,7 @@
 			
 			"FgColor" "234 234 234 255"			
 			"defaultFgColor_override" "234 234 234 255"
-			"armedFgColor_override" "0 221 255 255"
+			"armedFgColor_override" "207 115 54 255"
 			"depressedFgColor_override" "234 234 234 255"
 			
 			"image_drawcolor"	"0 0 0 0"
@@ -2628,7 +2628,7 @@
 			
 			"FgColor" "234 234 234 255"			
 			"defaultFgColor_override" "234 234 234 255"
-			"armedFgColor_override" "0 221 255 255"
+			"armedFgColor_override" "207 115 54 255"
 			"depressedFgColor_override" "234 234 234 255"
 			
 			"image_drawcolor"	"0 0 0 0"
@@ -2688,7 +2688,7 @@
 			"paintbackground"	"0"
 			
 			"image_drawcolor"	"32 32 32 255"
-			"image_armedcolor"	"0 175 175 255"
+			"image_armedcolor"	"207 115 54 255"
 			
 			"SubImage"
 			{
@@ -2745,7 +2745,7 @@
 			"paintbackground"	"0"
 			
 			"image_drawcolor"	"32 32 32 255"
-			"image_armedcolor"	"0 175 175 255"
+			"image_armedcolor"	"207 115 54 255"
 			
 			"SubImage"
 			{
@@ -2802,7 +2802,7 @@
 			"paintbackground"	"0"
 			
 			"image_drawcolor"	"32 32 32 255"
-			"image_armedcolor"	"0 175 175 255"
+			"image_armedcolor"	"207 115 54 255"
 			
 			"SubImage"
 			{
@@ -2884,7 +2884,7 @@
 		"paintbackground"	"0"
 
 		"image_drawcolor"	"32 32 32 255"
-		"image_armedcolor"	"0 175 175 255"
+		"image_armedcolor"	"207 115 54 255"
 
 		"SubImage"
 		{
@@ -2935,7 +2935,7 @@
 		"paintbackground"	"0"
 			
 		"image_drawcolor"	"32 32 32 255"
-		"image_armedcolor"	"0 175 175 255"
+		"image_armedcolor"	"207 115 54 255"
 
 		"SubImage"
 		{
@@ -2987,7 +2987,7 @@
 		"paintbackground"	"0"
 
 		"image_drawcolor"	"32 32 32 255"
-		"image_armedcolor"	"0 175 175 255"
+		"image_armedcolor"	"207 115 54 255"
 
 		"SubImage"
 		{
@@ -3039,7 +3039,7 @@
 		"paintbackground"	"0"
 
 		"image_drawcolor"	"32 32 32 255"
-		"image_armedcolor"	"0 175 175 255"
+		"image_armedcolor"	"207 115 54 255"
 
 		"SubImage"
 		{
@@ -3091,7 +3091,7 @@
 		"paintbackground"	"0"
 
 		"image_drawcolor"	"32 32 32 255"
-		"image_armedcolor"	"0 175 175 255"
+		"image_armedcolor"	"207 115 54 255"
 
 		"SubImage"
 		{

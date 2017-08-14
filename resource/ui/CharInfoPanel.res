@@ -23,8 +23,8 @@
 		"title_font"	"HudFontMediumBold"
 		"titletextinsetX"	"40"
 		"titletextinsetY"	"0"
-		"titlebarfgcolor_override"				"0 221 255 255"
-		"titlebardisabledfgcolor_override"		"0 221 255 255"
+		"titlebarfgcolor_override"				"207 115 54 255"
+		"titlebardisabledfgcolor_override"		"207 115 54 255"
 		"titlebarbgcolor_override"				"46 43 42 255"
 		
 		"clientinsetx_override"			"0"
@@ -135,7 +135,7 @@
 		{
 			"textinsetx"		"30"
 			"font"				"HudFontMediumBold"
-			"selectedcolor"		"0 221 255 255"
+			"selectedcolor"		"207 115 54 255"
 			"unselectedcolor"	"150 150 150 255"	
 			"paintbackground"	"1"
 			"bgcolor_override"	"30 30 30 255"
@@ -170,9 +170,9 @@
 			"border_default"	"bastBorder"
 			"border_armed"		"bastBorder2"
 			
-			"defaultFgColor_override" "0 221 255 255"
-			"armedFgColor_override" "0 221 255 255"
-			"depressedFgColor_override" "0 221 255 255"
+			"defaultFgColor_override" "207 115 54 255"
+			"armedFgColor_override" "207 115 54 255"
+			"depressedFgColor_override" "207 115 54 255"
 			"defaultBgColor_override" "30 30 30 255"
 			"armedBgColor_override" "30 30 30 255"
 			"depressedBgColor_override" "30 30 30 255"

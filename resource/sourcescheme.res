@@ -20,6 +20,7 @@ Scheme
 	    "DarkGrey"					"32 32 32 255"
 	    "DarkerMilkWhite"			"200 200 200 255"
 	    "LighterDarkGrey"			"62 62 62 255"
+		"TF2Orange"					"207 115 54 255"
 	    //
 	    
 	    "TFTanLightBright"          "234 234 234 90"
@@ -42,10 +43,10 @@ Scheme
 	    "Blank"				"0 0 0 0"
 	    
 	    // background colors
-		"ControlBG"			"76 88 68 255"		// background color of controls
-		"ControlDarkBG"		"90 106 80 255"		// darker background color; used for background of scrollbars
+		"ControlBG"			"90 106 80 255"		// background color of controls
+		"ControlDarkBG"		"76 88 68 255"		// darker background color; used for background of scrollbars
 		"WindowBG"			"62 62 62 255"		// background color of text edit panes (chat, text entries, etc.)
-		"SelectionBG"		"DarkerMilkWhite"	// background color of any selected text or menu item
+		"SelectionBG"		"TF2Orange"	// background color of any selected text or menu item
 		"SelectionBG2"		"155 155 155 255"		// selection background in window w/o focus
 		"ListBG"			"53 53 53 255"		// background of server browser, buddy list, etc.
 	}
