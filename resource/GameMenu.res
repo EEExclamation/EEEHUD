@@ -2,8 +2,8 @@
 {
 	"Credits"
 	{
-		"label" "EEEHUD BETA: me likey"
-		"command" "engine showconsole; echo Original hud created by b4stian, then further updated by me, EEE!"
+		"label" "EEEHUD BETA Version 7.2"
+		"command" "engine showconsole; echo Original hud created by b4stian."
 	}
 	"FavoriteServer"
 	{
@@ -126,6 +126,6 @@
 		"command"		"engine cl_coach_find_coach"
 		"OnlyAtMenu" "0"
 		"subimage" "icon_whistle"
-		"tooltip" "Coaching"
+		"tooltip" "Coach Request"
 	}
 }
