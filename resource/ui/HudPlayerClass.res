@@ -100,11 +100,11 @@
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"classmodelpanel"
 		
-		"xpos"			"215"	[$WIN32]
-		"ypos"			"r175"	[$WIN32]
-		"zpos"			"50"		
-		"wide"			"72"
-		"tall"			"125"
+		"xpos"			"250"	[$WIN32]
+		"ypos"			"r200"	[$WIN32]
+		"zpos"			"2"		
+		"wide"			"100"
+		"tall"			"200"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -286,7 +286,7 @@
 	{
 		"ControlName"			"EditablePanel"
 		"fieldName"				"CarryingWeapon"
-		"xpos"					"20"
+		"xpos"					"65"
 		"xpos_minmode"			"90"
 		"ypos"					"r27"
 		"ypos_minmode"			"r36"
@@ -322,11 +322,11 @@
 			"teambg_3_lodef"		"../hud/color_panel_blu"
 			"proportionaltoparent"	"1"
 		
-			"src_corner_height"		"23"				// pixels inside the image
-			"src_corner_width"		"23"
+			"src_corner_height"		"100"				// pixels inside the image
+			"src_corner_width"		"100"
 			
-			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"5"	
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
 		}
 
 		"CarryingLabel"
