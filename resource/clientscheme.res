@@ -258,7 +258,7 @@ Scheme
 		Button.TextColor				"255 255 255 255"
 		Button.BgColor					"10 10 10 120"
 		Button.ArmedTextColor			"30 30 30 255"
-		Button.ArmedBgColor				"0 206 209 255"
+		Button.ArmedBgColor				"207 115 54 255"
 		Button.SelectedTextColor		"255 255 255 255"
 		Button.SelectedBgColor			"10 10 10 120"
 		Button.DepressedTextColor		"255 255 255 255"
@@ -294,12 +294,12 @@ Scheme
 		FrameSystemButton.BgColor		"Blank"
 		FrameSystemButton.Icon			""
 		FrameSystemButton.DisabledIcon	""
-		FrameTitleBar.TextColor			"0 221 255 255"
+		FrameTitleBar.TextColor			"207 115 54 255"
 		FrameTitleBar.BgColor			"Blank"
-		FrameTitleBar.DisabledTextColor	"0 221 255 255"
+		FrameTitleBar.DisabledTextColor	"207 115 54 255"
 		FrameTitleBar.DisabledBgColor	"Blank"
 
-		GraphPanel.FgColor				"0 221 255 255"
+		GraphPanel.FgColor				"207 115 54 255"
 		GraphPanel.BgColor				"TransparentBlack"
 
 		Label.TextDullColor				"TanDark"
@@ -310,7 +310,7 @@ Scheme
 		Label.DisabledFgColor1			"Blank"
 		Label.DisabledFgColor2			"Black"
 
-		ListPanel.TextColor					"0 221 255 255"
+		ListPanel.TextColor					"207 115 54 255"
 		ListPanel.BgColor					"TransparentBlack"
 		ListPanel.SelectedTextColor			"Black"
 		ListPanel.SelectedBgColor			"Red"
@@ -323,7 +323,7 @@ Scheme
 		Menu.ArmedBgColor				"BuffedColor"
 		Menu.TextInset					"6"
 
-		Chat.TypingText					"0 221 255 255"
+		Chat.TypingText					"207 115 54 255"
 
 		Panel.FgColor					"Gray"
 		Panel.BgColor					"Blank"
@@ -340,12 +340,12 @@ Scheme
 		"BuildingHealthBar.Health"		"ProgressOffWhite"
 		"BuildingHealthBar.LowHealth"	"LowHealthRed"
 
-		PropertySheet.TextColor			"0 221 255 255"
-		PropertySheet.SelectedTextColor	"0 221 255 255"
+		PropertySheet.TextColor			"207 115 54 255"
+		PropertySheet.SelectedTextColor	"207 115 54 255"
 		PropertySheet.TransitionEffectTime	"0.25"	// time to change from one tab to another
 
 		RadioButton.TextColor			"255 255 255 255"
-		RadioButton.SelectedTextColor	"0 221 255 255"
+		RadioButton.SelectedTextColor	"207 115 54 255"
 
 		RichText.TextColor				"Gray"
 		RichText.BgColor				"Blank"

@@ -139,7 +139,7 @@
 		{
 			"textinsetx"		"30"
 			"font"				"HudFontMediumBold"
-			"selectedcolor"		"0 221 255 255"
+			"selectedcolor"		"207 115 54 255"
 			"unselectedcolor"	"150 150 150 255"	
 			"paintbackground"	"1"
 			"bgcolor_override"	"30 30 30 255"

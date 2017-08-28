@@ -98,9 +98,9 @@
 			"defaultFgColor_override" "231 231 231 255"
 			"defaultBgColor_override" "32 32 32 255"
 			"armedFgColor_override" "32 32 32 255"
-			"armedBgColor_override" "0 221 255 255"
+			"armedBgColor_override" "207 115 54 255"
 			"depressedFgColor_override" "32 32 32 255"
-			"depressedBgColor_override" "0 221 255 255"
+			"depressedBgColor_override" "207 115 54 255"
 		}
 		
 		"filter_xoffset"	"-290"

@@ -27,9 +27,9 @@
 			"border_default"	"bastBorder"
 			"border_armed"		"bastBorder2"
 			
-			"defaultFgColor_override" "0 221 255 255"
-			"armedFgColor_override" "0 221 255 255"
-			"depressedFgColor_override" "0 221 255 255"
+			"defaultFgColor_override" "207 115 54 255"
+			"armedFgColor_override" "207 115 54 255"
+			"depressedFgColor_override" "207 115 54 255"
 			"defaultBgColor_override" "10 10 10 120"
 			"armedBgColor_override" "10 10 10 120"
 			"depressedBgColor_override" "10 10 10 120"

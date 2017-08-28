@@ -2,8 +2,8 @@
 {
 	"Credits"
 	{
-		"label" "EEEHUD BETA Version 7.2"
-		"command" "engine showconsole; echo Original hud created by b4stian."
+		"label" "EEEHUD BETA Version 8"
+		"command" "engine showconsole; echo Original hud created by b4stian. Also, shoutout to the Sigma Team"
 	}
 	"FavoriteServer"
 	{
