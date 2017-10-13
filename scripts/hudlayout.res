@@ -650,7 +650,7 @@
         "xpos"      "-300"
         "ypos"      "0"
         "zpos"      "1"
-        "wide"      "f0"
+        "wide"      "1000"
         "tall"      "f0"
         
         "PaintBackgroundType"   "2"

@@ -100,7 +100,7 @@
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"classmodelpanel"
 		
-		"xpos"			"250"	[$WIN32]
+		"xpos"			"325"	[$WIN32]
 		"ypos"			"r200"	[$WIN32]
 		"zpos"			"2"		
 		"wide"			"100"
@@ -111,7 +111,7 @@
 		"enabled"		"1"
 		
 		"render_texture"	"0"
-		"fov"			"12"
+		"fov"			"9"
 		"allow_rot"		"1"
 				
 		"model"
@@ -123,7 +123,7 @@
 			"angles_z" "0"
 			"origin_x" "200"
 			"origin_y" "0"
-			"origin_z" "-60"
+			"origin_z" "-50"
 			"frame_origin_x"	"0"
 			"frame_origin_y"	"0"
 			"frame_origin_z"	"0"

@@ -26,7 +26,7 @@
 		"ypos"			"r190"
 		"wide"			"178"
 		"tall"			"15"
-		"fgcolor"		"32 32 32 240"
+		"fgcolor"		"255 255 255 240"
 	}
 
 	"DifficultyContainer"

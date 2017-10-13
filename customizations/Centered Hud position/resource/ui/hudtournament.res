@@ -776,7 +776,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentInstructionsLabel"
-		"font"			"Medium8"
+		"font"			"Medium9"
 		"fgcolor"		"234 234 234 255"
 		"xpos"			"c-125"
 		"ypos"			"17"
@@ -785,7 +785,7 @@
 		"zpos"			"1"
 		"autoResize"		"0"
 		"pinCorner"		"0"
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
 		"labelText"		"%readylabel%"
@@ -793,7 +793,7 @@
 
 		if_mvm
 		{
-			"font"			"ChatFont"
+			"font"			"DemiBold10"
 			"xpos"			"155"
 			"ypos"			"100"
 			"wide"			"190"
