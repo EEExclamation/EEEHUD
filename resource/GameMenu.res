@@ -2,7 +2,7 @@
 {
 	"Credits"
 	{
-		"label" "EEEHUD BETA Version 9"
+		"label" "EEEHUD BETA Version 10"
 		"command" "engine showconsole; echo HUD created by EEE!, inspired by KBNHUD & bastHUD."
 	}
 	"FavoriteServer"
