@@ -2,30 +2,8 @@
 {
 	"Credits"
 	{
-		"label" "EEEHUD BETA Version 11"
+		"label" "EEEHUD BETA Version 12"
 		"command" "engine showconsole; echo HUD created by EEE!, inspired by KBNHUD & bastHUD."
-	}
-	"FavoriteServer"
-	{
-		"command" "engine connect [IP SERVER]"
-	}
-	"CasualButton"
-	{
-		"label" "Casual" 
-		"command" "play_casual"
-		"subimage" "glyph_multiplayer"
-	}
-	"MvMButton"
-	{
-		"label" "Mann vs. Machine" 
-		"command" "play_mvm"
-		"subimage" "glyph_multiplayer"
-	}
-	"CompetitiveButton"
-	{
-		"label"	"Competitive" 
-		"command" "play_competitive"
-		"subimage" "glyph_multiplayer"
 	}
 	"ServerBrowserButton"
 	{
@@ -74,14 +52,14 @@
 		"OnlyAtMenu" "1"
 	}
 	
-	// These buttons get positioned by the MainMenuOverride.res	
+	// These buttons get positioned by the MainMenuOverride.res
 	"CreateServerButton"
 	{
 		"label" "#GameUI_GameMenu_CreateServer"
 		"command" "OpenCreateMultiplayerGameDialog"
 		"OnlyAtMenu" "1"
 		"tooltip" "Create Server"
-	}
+	}	
 	"GeneralStoreButton"
 	{
 		"label" "Store"

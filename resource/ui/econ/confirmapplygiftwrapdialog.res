@@ -12,7 +12,7 @@
 		"bgcolor_override"		"46 43 42 0"
 		"paintbackgroundtype"	"0"
 		"settitlebarvisible"	"0"
-		"border"				"bastBorder2"
+		"border"				"GrayDialogBorder"
 	}
 
 	"mouseoveritempanel"
@@ -261,18 +261,6 @@
 		"Command"		"cancel"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		
-		
-		"defaultBgColor_override"	"32 32 32 255"
-		"armedBgColor_override"		"40 40 40 255"
-		"depressedBgColor_override"	"40 40 40 255"
-		"defaultFgColor_override"	"221 221 221 255"
-		"armedFgColor_override" 	"221 221 221 255"
-		"depressedFgColor_override" "221 221 221 255"
-		"border_default"			"bastBorder"
-		"border_armed"				"bastBorder2"
-		"paintbackground"			"1"
-	}	
 	}
 	
 	"OkButton"
@@ -298,17 +286,5 @@
 		"Command"		"apply"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		
-		
-		"defaultBgColor_override"	"32 32 32 255"
-		"armedBgColor_override"		"40 40 40 255"
-		"depressedBgColor_override"	"40 40 40 255"
-		"defaultFgColor_override"	"221 221 221 255"
-		"armedFgColor_override" 	"221 221 221 255"
-		"depressedFgColor_override" "221 221 221 255"
-		"border_default"			"bastBorder"
-		"border_armed"				"bastBorder2"
-		"paintbackground"			"1"
-	}	
 	}
 }

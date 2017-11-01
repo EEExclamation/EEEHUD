@@ -131,10 +131,10 @@
 			"font"			"HudFontSmallBold"
 			"labelText"		"#QuestLog_Title"
 			"textAlignment"	"north-west"
-			"xpos"			"10"
-			"ypos"			"10"
+			"xpos"			"cs-0.5"
+			"ypos"			"p.02"
 			"zpos"			"2"
-			"wide"			"f0"
+			"wide"			"p.95"
 			"tall"			"30"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -150,7 +150,7 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"CloseButton"
 			"xpos"			"rs1.5"
-			"ypos"			"5"
+			"ypos"			"p.02"
 			"zpos"			"1000"
 			"wide"			"14"
 			"tall"			"14"
@@ -200,7 +200,7 @@
 			"ControlName"	"CScrollableQuestList"
 			"fieldName"		"QuestList"
 			"xpos"			"cs-0.5"
-			"ypos"			"p0.1"
+			"ypos"			"p0.075"
 			"zpos"			"10"
 			"wide"			"p.95"
 			"tall"			"o1"
@@ -216,7 +216,7 @@
 			"not_possible"	"#QuestLog_NoContractsPossible"
 		}
 	}
-	
+
 	"ProgressPanel"
 	{
 		"ControlName"	"EditablePanel"

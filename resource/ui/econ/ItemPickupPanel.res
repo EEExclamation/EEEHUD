@@ -6,7 +6,7 @@
 		"fieldName"		"item_pickup"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"100000"
+		"zpos"			"10000"
 		"wide"			"f0"
 		"tall"			"480"
 		"autoResize"		"0"
@@ -19,31 +19,31 @@
 		"bgcolor_override"	"46 43 42 255"
 		"infocus_bgcolor_override" "46 43 42 255"
 		"outoffocus_bgcolor_override" "46 43 42 255"
-
+		
 		"modelpanels_spacing"		"40"
 		"modelpanels_width"			"500"
 		"modelpanels_height"		"260"
 		"modelpanels_ypos"			"110"
 		
-
+		
 		"modelpanelskv"	
 		{
 			"PaintBackgroundType"	"2"
 			"paintborder"			"1"
 			"bgcolor_override"		"0 0 0 0"
-
+			
 			"model_xpos"	"0"
 			"model_center_y"	"1"
 			"model_tall"	"160"
 			"model_wide"	"240"
-
+			
 			"text_forcesize"	"1"
 			"text_xpos"		"250"
 			"text_wide"		"225"
 			"text_center"	"1"
 			"is_mouseover"		"1"
 			"hide_collection_panel" "1"
-
+			
 			"itemmodelpanel"
 			{
 				"use_item_rendertarget" "0"
@@ -51,7 +51,7 @@
 			}
 		}
 	}
-
+	
 	"classimageoutline"
 	{
 		"ControlName"	"EditablePanel"
@@ -64,7 +64,7 @@
 		"visible"		"1"
 		"bgcolor_override" "0 0 0 255"
 	}
-
+	
 	"classimage"
 	{
 		"ControlName"	"ImagePanel"
@@ -79,7 +79,7 @@
 		"image"			"achievements/tf_medic_heal_grind"
 		"scaleImage"	"1"
 	}
-
+	
 	"ItemsFoundLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -87,9 +87,8 @@
 		"font"			"HudFontMediumBigBold"
 		"labelText"		"#NewItemsAcquired"
 		"textAlignment"	"center"
-		"fgcolor_override"	"207 115 54 255"
 		"xpos"			"0"
-		"ypos"			"20"
+		"ypos"			"30"
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"35"
@@ -98,7 +97,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 	}
-
+	
 	"SelectedItemFoundMethodLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -106,7 +105,6 @@
 		"font"			"HudFontMediumSmallBold"
 		"labelText"		""
 		"textAlignment"	"center"
-		"fgcolor_override"	"207 115 54 255"
 		"xpos"			"0"
 		"ypos"			"75"
 		"zpos"			"1"
@@ -117,7 +115,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 	}
-
+	
 	"ItemCountLabel"
 	{
 		"ControlName"		"CExLabel"
@@ -125,7 +123,6 @@
 		"font"			"HudFontSmallestBold"
 		"labelText"		"#Item"
 		"textAlignment"	"north-west"
-		"fgcolor_override"	"207 115 54 255"
 		"xpos"			"c-245"
 		"ypos"			"115"
 		"zpos"			"5"
@@ -142,7 +139,6 @@
 		"fieldName"		"SelectedItemNumberLabel"
 		"font"			"HudFontMediumBigBold"
 		"labelText"		"#SelectedItemNumber"
-		"fgcolor_override"	"207 115 54 255"
 		"textAlignment"	"north-west"
 		"xpos"			"c-245"
 		"ypos"			"120"
@@ -154,7 +150,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 	}
-
+	
 	"NextButton"
 	{
 		"ControlName"		"CExButton"
@@ -165,7 +161,7 @@
 		"wide"			"70"
 		"tall"			"30"
 		"autoResize"	"0"
-		"pinCorner"		"0"
+		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
@@ -177,20 +173,6 @@
 		"Command"		"nextitem"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"paintbackground"	"1"
-			
-			"border_default"	"bastBorder"
-			"border_armed"		"bastBorder2"
-			
-			"defaultFgColor_override" "207 115 54 255"
-			"armedFgColor_override" "207 115 54 255"
-			"depressedFgColor_override" "207 115 54 255"
-			"defaultBgColor_override" "10 10 10 120"
-			"armedBgColor_override" "10 10 10 120"
-			"depressedBgColor_override" "10 10 10 120"
-			
-			"image_drawcolor"	"207 115 54 255"
-			"image_armedcolor"	"255 255 255 255"
 	}
 	"PrevButton"
 	{
@@ -202,7 +184,7 @@
 		"wide"			"70"
 		"tall"			"30"
 		"autoResize"	"0"
-		"pinCorner"		"0"
+		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
@@ -214,22 +196,8 @@
 		"Command"		"previtem"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"paintbackground"	"1"
-			
-			"border_default"	"bastBorder"
-			"border_armed"		"bastBorder2"
-			
-			"defaultFgColor_override" "207 115 54 255"
-			"armedFgColor_override" "207 115 54 255"
-			"depressedFgColor_override" "207 115 54 255"
-			"defaultBgColor_override" "10 10 10 120"
-			"armedBgColor_override" "10 10 10 120"
-			"depressedBgColor_override" "10 10 10 120"
-			
-			"image_drawcolor"	"207 115 54 255"
-			"image_armedcolor"	"255 255 255 255"
 	}
-
+	
 	"CloseButton"
 	{
 		"ControlName"	"CExButton"
@@ -253,20 +221,6 @@
 		"default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"paintbackground"	"1"
-			
-			"border_default"	"bastBorder"
-			"border_armed"		"bastBorder2"
-			
-			"defaultFgColor_override" "207 115 54 255"
-			"armedFgColor_override" "207 115 54 255"
-			"depressedFgColor_override" "207 115 54 255"
-			"defaultBgColor_override" "10 10 10 120"
-			"armedBgColor_override" "10 10 10 120"
-			"depressedBgColor_override" "10 10 10 120"
-			
-			"image_drawcolor"	"207 115 54 255"
-			"image_armedcolor"	"255 255 255 255"
 	}
 	"OpenLoadoutButton"
 	{
@@ -278,7 +232,7 @@
 		"wide"			"250"
 		"tall"			"30"
 		"autoResize"	"0"
-		"pinCorner"		"0"
+		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
@@ -290,22 +244,8 @@
 		"Command"		"changeloadout"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"paintbackground"	"1"
-			
-			"border_default"	"bastBorder"
-			"border_armed"		"bastBorder2"
-			
-			"defaultFgColor_override" "207 115 54 255"
-			"armedFgColor_override" "207 115 54 255"
-			"depressedFgColor_override" "207 115 54 255"
-			"defaultBgColor_override" "10 10 10 120"
-			"armedBgColor_override" "10 10 10 120"
-			"depressedBgColor_override" "10 10 10 120"
-			
-			"image_drawcolor"	"207 115 54 255"
-			"image_armedcolor"	"255 255 255 255"
 	}
-
+	
 	"DiscardButton"
 	{
 		"ControlName"	"CExImageButton"
@@ -328,21 +268,14 @@
 		"Command"		"discarditem"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-			"paintbackground"	"1"
-			
-			"border_default"	"bastBorder"
-			"border_armed"		"bastBorder2"
-			
-			"defaultFgColor_override" "207 115 54 255"
-			"armedFgColor_override" "207 115 54 255"
-			"depressedFgColor_override" "207 115 54 255"
-			"defaultBgColor_override" "10 10 10 120"
-			"armedBgColor_override" "10 10 10 120"
-			"depressedBgColor_override" "10 10 10 120"
-			
-			"image_drawcolor"	"207 115 54 255"
-			"image_armedcolor"	"255 255 255 255"	
 
+		"defaultBgColor_override" "117 107 94 255"
+		"armedBgColor_override" "145 73 59 255"
+		"depressedBgColor_override" "117 107 94 255"
+			
+		"image_drawcolor"	"235 226 202 255"		
+		"image_armedcolor"	"235 226 202 255"		
+		
 		"SubImage"
 		{
 			"ControlName"	"ImagePanel"
@@ -357,6 +290,7 @@
 			"image"			"icon_trash_on"
 			"scaleImage"	"1"
 			"paintbackgroundtype" "0"
+			"proportionaltoparent"	"1"
 		}				
 	}		
 	"DiscardButtonTooltip"
@@ -371,7 +305,7 @@
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
 		"border"		"MainMenuBGBorder"
-
+		
 		"TipLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -387,7 +321,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"207 115 54 255"
+			"fgcolor_override"	"235 226 202 255"
 			"wrap"			"1"
 			"centerwrap"	"1"
 		}
@@ -408,10 +342,10 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "207 115 54 255"
+		"fgcolor_override" "200 80 60 255"
 		"bgcolor_override"	"46 43 42 255"
 	}
-
+	
 	"ScoreEntry"
 	{
 		"ControlName"		"TextEntry"
@@ -431,7 +365,7 @@
 		"NumericInputOnly"	"0"
 		"unicode"			"0"
 		"wrap"				"0"
-		"fgcolor_override"	"207 115 54 255"
+		"fgcolor_override"	"235 226 202 255"
 		"bgcolor_override"	"0 0 0 255"
 		"labelText"			"Enter Score Here"
 		"textAlignment"		"center"

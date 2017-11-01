@@ -48,7 +48,7 @@
 			"default"		"1"
 			"Command"		"open_edit_context"
 			"proportionaltoparent"	"1"
-			
+
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 		
@@ -67,8 +67,7 @@
 				"scaleImage"	"1"
 				"image"			"glyph_options"
 				"proportionaltoparent"	"1"
-			}	
-			
+			}			
 		}
 
 		"NewQuestButton"

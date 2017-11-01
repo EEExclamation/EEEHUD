@@ -12,12 +12,16 @@
 		"tall"					"f0"
 		"paintbackground"		"0"
 
-
 		"buttons_start_x"	"20"
 		"buttons_start_y"	"60"
 		"buttons_step_x"	"56"
 		"buttons_step_y"	"56"
 
+		"output_start_x"	"343"
+		"output_start_y"	"85"
+		"output_step_x"		"56"
+		"output_step_y"		"56"
+		
 		"bg_target_y"		"10"
 		"slide_in_time"		"1.f"
 
@@ -156,7 +160,6 @@
 				"model_tall"	"30"
 				"text_ypos"		"100"		// Hide it off the bottom
 				"text_center"	"1"
-				"name_only"		"1"
 				"paint_icon_hide" "1"
 				"actionsignallevel"	"4"
 				"proportionaltoparent"	"1"
@@ -231,8 +234,7 @@
 		"tall"					"250"
 		"proportionaltoparent"	"1"
 
-		"linecentercolor"		"RedSolid"
-		"lineoutercolor"		"Red"
+		"linecolor"			"RedSolid"
 	}
 
 	"LetterBack_Bottom"
@@ -436,6 +438,7 @@
 			"paint_icon_hide" "1"
 			"model_hide"	"1"
 			"text_forcesize"	"4"
+			"name_only"	"1"
 
 			"itemmodelpanel"
 			{

@@ -26,7 +26,7 @@
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"1"
-
+			
 			"model_xpos"	"2"
 			"model_ypos"	"5"
 			"model_wide"	"50"
@@ -34,16 +34,16 @@
 			"text_ypos"		"60"
 			"text_center"	"1"
 			"name_only"		"1"
-
+			
 			"inset_eq_x"	"2"	
 			"inset_eq_y"	"2"
-
+			
 			"itemmodelpanel"
 			{
 				"use_item_rendertarget" "0"
 				"allow_rot"				"0"
 			}
-
+			
 			"use_item_sounds"	"1"
 		}
 	}
@@ -62,13 +62,13 @@
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
-
+		
 		"text_ypos"			"20"
 		"text_center"		"1"
 		"model_hide"		"1"
 		"resize_to_text"	"1"
 		"padding_height"	"15"
-
+		
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
@@ -87,7 +87,7 @@
 			"centerwrap"	"1"
 		}
 	}
-
+	
 	"TitleLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -247,10 +247,10 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"ShuffleButton"
-		"xpos"			"c60"
+		"xpos"			"r105" //From c60
 		"ypos"			"r75"
 		"zpos"			"1"
-		"wide"			"90"
+		"wide"			"95" //From 90
 		"tall"			"25"
 		"autoResize"	"0"
 		"pinCorner"		"3"
@@ -269,7 +269,7 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"proportionalToParent"	"1"
 	}
-
+		
 	"CancelButton"
 	{
 		"ControlName"	"CExButton"
@@ -277,7 +277,7 @@
 		"xpos"			"10"
 		"ypos"			"r35"
 		"zpos"			"1"
-		"wide"			"70"
+		"wide"			"90"
 		"tall"			"25"
 		"autoResize"	"0"
 		"pinCorner"		"3"
@@ -301,10 +301,10 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"GetKeyButton"
-		"xpos"			"90"
+		"xpos"			"r160"
 		"ypos"			"r35"
 		"zpos"			"1"
-		"wide"			"100"
+		"wide"			"150"
 		"tall"			"25"
 		"autoResize"	"0"
 		"pinCorner"		"3"
@@ -327,10 +327,10 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"UseKeyButton"
-		"xpos"			"90"
+		"xpos"			"r160"
 		"ypos"			"r35"
 		"zpos"			"1"
-		"wide"			"130"
+		"wide"			"150"
 		"tall"			"25"
 		"autoResize"	"0"
 		"pinCorner"		"3"

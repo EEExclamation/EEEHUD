@@ -3,12 +3,13 @@
 	"mouseoveritempanel"
 	{
 		"fieldName"				"mouseoveritempanel"
-		"collection_wide"		"500"
 		"collection_list_xpos"	"250"
 		"is_mouseover"			"1"
 		"text_xpos_collection"	"0"
 		"text_ypos"			"15"
 		"text_forcesize" "0"
+		"text_xpos"		"15"
+		"text_wide"		"270"
 		//"model_xpos_collection"	"77"
 		//"model_ypos_collection"	"20"
 		//"model_wide_collection"	"156"
@@ -73,6 +74,7 @@
 				"angles_x"		"10"
 				"angles_y"		"130"
 				"angles_z"		"0"
+				"spotlight" "1"
 			}
 		}
 	
@@ -258,6 +260,22 @@
 			"enabled"		"1"
 			"scaleImage"	"1"
 		}
+
+		"is_loaner_icon"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"is_loaner_icon"
+			"xpos"			"4"
+			"ypos"			"4"
+			"zpos"			"2"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"wide"			"16"
+			"tall"			"16"
+			"visible"		"0"
+			"enabled"		"1"
+			"scaleImage"	"1"
+		}
 		
 		"contained_item_panel"
 		{
@@ -296,4 +314,6 @@
 			"use_item_sounds"	"1"
 		}
 	}
+
+
 }

@@ -12,21 +12,21 @@
 		"bgcolor_override"		"46 43 42 0"
 		"paintbackgroundtype"	"0"
 		"settitlebarvisible"	"1"
-		"border"				"bastBorder2"
+		"border"				"GrayDialogBorder"
 	}
 	
 	"TitleLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"Museo18"
+		"font"			"HudFontSmallBold"
 		"labelText"		"#TF_Item_SelectStyle"
 		"textAlignment"	"center"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"0"
 		"wide"			"280"
-		"tall"			"45"
+		"tall"			"60"
 		"autoResize"	"1"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -86,13 +86,13 @@
 		"NumericInputOnly"	"0"
 		"unicode"			"0"
 		
-		"fgcolor_override"	"231 231 231 255"
-		"bgcolor_override"	"32 32 32 255"
-		"disabledFgColor_override" "231 231 231 255"
-		"disabledBgColor_override" "32 32 32 255"
-		"selectionColor_override" "32 32 32 255"
-		"selectionTextColor_override" "231 231 231 255"
-		"defaultSelectionBG2Color_override" "32 32 32 255"
+		"fgcolor_override"	"117 107 94 255"
+		"bgcolor_override"	"251 235 202 0"
+		"disabledFgColor_override" "117 107 94 0"
+		"disabledBgColor_override" "251 235 202 0"
+		"selectionColor_override" "0 0 0 0"
+		"selectionTextColor_override" "117 107 94 255"
+		"defaultSelectionBG2Color_override" "251 235 202 255"
 	}
 		
 	"CancelButton"
@@ -118,20 +118,7 @@
 		"Command"		"cancel"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		
-		"fgcolor_override"	"231 231 231 255"
-		
-		
-		"defaultBgColor_override"	"32 32 32 255"
-		"armedBgColor_override"		"40 40 40 255"
-		"depressedBgColor_override"	"40 40 40 255"
-		"defaultFgColor_override"	"221 221 221 255"
-		"armedFgColor_override" 	"221 221 221 255"
-		"depressedFgColor_override" "221 221 221 255"
-		"border_default"			"bastBorder"
-		"border_armed"				"bastBorder2"
-		"paintbackground"			"1"
-	}	
+	}
 	
 	"OkButton"
 	{
@@ -156,18 +143,5 @@
 		"Command"		"apply"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		
-		"fgcolor_override"	"231 231 231 255"
-		
-		
-		"defaultBgColor_override"	"32 32 32 255"
-		"armedBgColor_override"		"40 40 40 255"
-		"depressedBgColor_override"	"40 40 40 255"
-		"defaultFgColor_override"	"221 221 221 255"
-		"armedFgColor_override" 	"221 221 221 255"
-		"depressedFgColor_override" "221 221 221 255"
-		"border_default"			"bastBorder"
-		"border_armed"				"bastBorder2"
-		"paintbackground"			"1"
-	}	
+	}
 }

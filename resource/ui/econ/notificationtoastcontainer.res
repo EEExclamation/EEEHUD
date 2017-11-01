@@ -11,8 +11,7 @@
 		"tall"			"50"
 		"visible"		"1"
 		"enabled"		"1"
-		"border"		"bastBorder2"
-		"bgcolor_override"	"32 32 32 255"
+		"border"		"TFFatLineBorderOpaque"
 	}
 
 
@@ -20,7 +19,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"HelpTextLabel"
-		"fgcolor"		"255 40 40 255"
+		"fgcolor"		"RedSolid"
 		"xpos"			"5"
 		"ypos"			"0"
 		"zpos"			"2"
@@ -33,7 +32,7 @@
 		"wrap"			"1"
 		"labelText"		""
 		"textAlignment"	"North"
-		"font"			"Museo12"
+		"font"			"TFFontSmall"
 		"textinsetx"	"2"
 		"textinsety"	"7"
 	}
